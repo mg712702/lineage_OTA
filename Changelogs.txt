@@ -1,27 +1,23 @@
 ====================
      12-03-2019
 ====================
-- Merged tag android-9.0.0_r34
-- March security patch
-- Comes With Minimal Kernel
-- Compiled With GNU GCC 8.2.1
-- Enabled KCAL
-- Enabled wakelock blocker
-- Updated PowerSuspend to v1.5
-- Added CPU boost
-- Switched to standalone msm kernel thermal management
-- Enabled ZRAM (256mb)
-- Lot's of optimisations
-- Added nubia's offline charging animation
-- Updated audio configs 
-- Updated media configs & blobs
-- Added oreo widewine blobs
-- Increased lowest brightness a bit
-- Set voice call volume step to 7
-- Increased media volume step to 25
-- Fixed customisations
+- Merged tag android-9.0.0_r35
+- April security patch
+- Fixed Camera
+- Fixed SystemUI lags
+- Backport & enabled zswap, zpool, zbud & lz4 from Linux 4.18
+- Enabled KSM support
+- Enabled westwood TCP cong & set as default
+- Enabled power efficient workqueues
+- Enabled adreno idler
+- Enabled Faux sound control
+- Enabled state notifier
+- Enabled WireGuard
+- Enabled maple I/O sched and set it as default
+- Enabled Time To Live (TTL) support
+- Network speed tweaks
+- Lot's of optimization
 - LineageOS source upstream
-- Much More....
 
 NOTE:- Please wait for atleast 10 mins after booting upto
 let the device stabilize & experience optimum performance.
