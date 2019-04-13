@@ -1,5 +1,13 @@
 ====================
-     12-03-2019
+     13-04-2019
+====================
+- Fixed the reboot issue (Now shut down/reboot working perfectly)
+- Removed KSM support (As it was causing heating issue on few models)
+- Fixed Bluetooth
+- LineageOS source upstream
+
+====================
+     06-04-2019
 ====================
 - Merged tag android-9.0.0_r35
 - April security patch
