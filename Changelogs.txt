@@ -1,8 +1,9 @@
 ====================
-     13-04-2019
+     14-04-2019
 ====================
-- Fixed the reboot issue (Now shut down/reboot working perfectly)
-- Removed KSM support (As it was causing heating issue on few models)
+- Switched back to stock thermal
+- Fixed heating issue
+- Fixed the reboot issue
 - Fixed Bluetooth
 - LineageOS source upstream
 
